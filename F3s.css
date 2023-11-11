@@ -1,0 +1,33 @@
+/* MenuComponent.css */
+
+.menu-container99 {
+    display: flex;
+    background: #222f3d;
+    justify-content: space-around;
+  }
+  
+  .menu-box99 {
+    width: 400px;
+    border: 2px solid  #2b3642;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .menu-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .submenu {
+    margin-top: 1px;
+    color: #ece6e6;
+  }
+  
+ 
+.footer9000 {
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    background: #222f3d;
+  }
+  

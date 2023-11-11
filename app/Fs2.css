@@ -1,0 +1,54 @@
+.container99 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #404d5d;
+    padding: 20px;
+    background: #232f3e;
+  }
+  .top-logo img {
+    max-width: 100px; /* Adjust the size as needed */
+  }
+  
+  .border-box {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  .button909 {
+    color: rgb(255, 255, 255); /* Change text color to white for better contrast */
+    border: 2px solid rgb(139, 139, 147); /* Add a blue border */
+    padding: 10px 20px; /* Add padding for better visual appeal */
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Add transition for smoother hover effect */
+}
+
+.button909:hover {
+    background-color: #004080; /* Darker blue on hover */
+    border-color: #004080; /* Darker blue border on hover */
+    color: rgb(255, 255, 255); /* Change text color to white on hover */
+}
+
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  .country-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .country {
+    color: #ffffff;
+    margin: 5px;
+    cursor: pointer;
+    transition: text-decoration 0.3s;
+  }
+  
+  .country:hover {
+    text-decoration: underline;
+  }
+  
