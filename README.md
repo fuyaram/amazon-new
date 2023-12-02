@@ -1,9 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Local Image](./picture/myamazone1.jpg)
+![Local Image](./picture/myamazone1.jpg)![myamazone2](https://github.com/fuyaram/amazon-new/assets/143484868/002ed549-a4c3-4b9c-b8fe-27b0aa9b311c)
+![myamazone4](https://github.com/fuyaram/amazon-new/assets/143484868/67b34d5a-c72f-447c-a5cd-87e508928354)![myamazone5](https://github.com/fuyaram/amazon-new/assets/143484868/1b59508e-83f6-4003-a802-3e66f715306f)
+![myamazone6](https://github.com/fuyaram/amazon-new/assets/143484868/cefd48db-b8a3-4210-9b26-53a221cd0910)
+
+
 ![Local Image](./picture/myamazone2.jpg)
 ![Local Image](./picture/myamazone4.jpg)
-![Local Image](./picture/myamazone5.jpg)
+![Local Image](./picture/myamazone5.jpg)![myamazone1](https://github.com/fuyaram/amazon-new/assets/143484868/728b8a63-6734-4ad2-a58c-aed9439e6ef1)
+
 ![Local Image](./picture/myamazone6.jpg)
 
 
