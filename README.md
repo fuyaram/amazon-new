@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Local Image](./app/images/myamazone1.jpg)
-![Local Image](./app/images/myamazone2.jpg)
-![Local Image](./app/images/myamazone4.jpg)
-![Local Image](./app/images/myamazone5.jpg)
-![Local Image](./app/images/myamazone6.jpg)
+![Local Image](./picture/myamazone1.jpg)
+![Local Image](./picture/myamazone2.jpg)
+![Local Image](./picture/myamazone4.jpg)
+![Local Image](./picture/myamazone5.jpg)
+![Local Image](./picture/myamazone6.jpg)
 
 
 
